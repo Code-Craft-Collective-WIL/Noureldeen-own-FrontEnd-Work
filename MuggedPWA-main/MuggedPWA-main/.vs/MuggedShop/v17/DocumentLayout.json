@@ -1,0 +1,648 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|c:\\users\\lab_services_student\\downloads\\muggedpwa-main\\muggedpwa-main\\muggedshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|solutionrelative:muggedshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|c:\\users\\lab_services_student\\downloads\\muggedpwa-main\\muggedpwa-main\\muggedshop\\views\\home\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|solutionrelative:muggedshop\\views\\home\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|c:\\users\\lab_services_student\\downloads\\muggedpwa-main\\muggedpwa-main\\muggedshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|solutionrelative:muggedshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|c:\\users\\lab_services_student\\downloads\\muggedpwa-main\\muggedpwa-main\\muggedshop\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|solutionrelative:muggedshop\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|c:\\users\\lab_services_student\\downloads\\muggedpwa-main\\muggedpwa-main\\muggedshop\\views\\home\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|solutionrelative:muggedshop\\views\\home\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|c:\\users\\lab_services_student\\downloads\\muggedpwa-main\\muggedpwa-main\\muggedshop\\views\\home\\checkoutorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|solutionrelative:muggedshop\\views\\home\\checkoutorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|c:\\users\\lab_services_student\\downloads\\muggedpwa-main\\muggedpwa-main\\muggedshop\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|solutionrelative:muggedshop\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|c:\\users\\lab_services_student\\downloads\\muggedpwa-main\\muggedpwa-main\\muggedshop\\views\\home\\customizemug.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|solutionrelative:muggedshop\\views\\home\\customizemug.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|c:\\users\\lab_services_student\\downloads\\muggedpwa-main\\muggedpwa-main\\muggedshop\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|solutionrelative:muggedshop\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|c:\\users\\lab_services_student\\downloads\\muggedpwa-main\\muggedpwa-main\\muggedshop\\wwwroot\\images\\custom_mugs\\c80a5baa-754e-4544-a8e4-35de9a778d3c_bestrong.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|solutionrelative:muggedshop\\wwwroot\\images\\custom_mugs\\c80a5baa-754e-4544-a8e4-35de9a778d3c_bestrong.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|c:\\users\\lab_services_student\\downloads\\muggedpwa-main\\muggedpwa-main\\muggedshop\\wwwroot\\images\\rselyzjd.s0d.jpeg||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|solutionrelative:muggedshop\\wwwroot\\images\\rselyzjd.s0d.jpeg||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|c:\\users\\lab_services_student\\downloads\\muggedpwa-main\\muggedpwa-main\\muggedshop\\wwwroot\\images\\urdku5su.fbp.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|solutionrelative:muggedshop\\wwwroot\\images\\urdku5su.fbp.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|c:\\users\\lab_services_student\\downloads\\muggedpwa-main\\muggedpwa-main\\muggedshop\\wwwroot\\images\\visa_icon.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|solutionrelative:muggedshop\\wwwroot\\images\\visa_icon.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|c:\\users\\lab_services_student\\downloads\\muggedpwa-main\\muggedpwa-main\\muggedshop\\wwwroot\\images\\53b5dtje.5f2.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|solutionrelative:muggedshop\\wwwroot\\images\\53b5dtje.5f2.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|c:\\users\\lab_services_student\\downloads\\muggedpwa-main\\muggedpwa-main\\muggedshop\\wwwroot\\images\\4m5kfzfx.sne.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|solutionrelative:muggedshop\\wwwroot\\images\\4m5kfzfx.sne.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|c:\\users\\lab_services_student\\downloads\\muggedpwa-main\\muggedpwa-main\\muggedshop\\wwwroot\\images\\custom_mug.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|solutionrelative:muggedshop\\wwwroot\\images\\custom_mug.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|c:\\users\\lab_services_student\\downloads\\muggedpwa-main\\muggedpwa-main\\muggedshop\\wwwroot\\images\\email_icon.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|solutionrelative:muggedshop\\wwwroot\\images\\email_icon.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|c:\\users\\lab_services_student\\downloads\\muggedpwa-main\\muggedpwa-main\\muggedshop\\wwwroot\\images\\guqor5re.hfg.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|solutionrelative:muggedshop\\wwwroot\\images\\guqor5re.hfg.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|c:\\users\\lab_services_student\\downloads\\muggedpwa-main\\muggedpwa-main\\muggedshop\\wwwroot\\images\\location_icon.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|solutionrelative:muggedshop\\wwwroot\\images\\location_icon.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|c:\\users\\lab_services_student\\downloads\\muggedpwa-main\\muggedpwa-main\\muggedshop\\wwwroot\\images\\mastercard_icon.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|solutionrelative:muggedshop\\wwwroot\\images\\mastercard_icon.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|c:\\users\\lab_services_student\\downloads\\muggedpwa-main\\muggedpwa-main\\muggedshop\\wwwroot\\images\\oc2sarbf.tzl.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|solutionrelative:muggedshop\\wwwroot\\images\\oc2sarbf.tzl.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|c:\\users\\lab_services_student\\downloads\\muggedpwa-main\\muggedpwa-main\\muggedshop\\views\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|solutionrelative:muggedshop\\views\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|c:\\users\\lab_services_student\\downloads\\muggedpwa-main\\muggedpwa-main\\muggedshop\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|solutionrelative:muggedshop\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|c:\\users\\lab_services_student\\downloads\\muggedpwa-main\\muggedpwa-main\\muggedshop\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|solutionrelative:muggedshop\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|c:\\users\\lab_services_student\\downloads\\muggedpwa-main\\muggedpwa-main\\muggedshop\\modelviews\\orderitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|solutionrelative:muggedshop\\modelviews\\orderitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|c:\\users\\lab_services_student\\downloads\\muggedpwa-main\\muggedpwa-main\\muggedshop\\modelviews\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|solutionrelative:muggedshop\\modelviews\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|c:\\users\\lab_services_student\\downloads\\muggedpwa-main\\muggedpwa-main\\muggedshop\\views\\category\\editcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|solutionrelative:muggedshop\\views\\category\\editcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|c:\\users\\lab_services_student\\downloads\\muggedpwa-main\\muggedpwa-main\\muggedshop\\views\\category\\viewcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|solutionrelative:muggedshop\\views\\category\\viewcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|c:\\users\\lab_services_student\\downloads\\muggedpwa-main\\muggedpwa-main\\muggedshop\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|solutionrelative:muggedshop\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|c:\\users\\lab_services_student\\downloads\\muggedpwa-main\\muggedpwa-main\\muggedshop\\views\\user\\userhome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|solutionrelative:muggedshop\\views\\user\\userhome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|c:\\users\\lab_services_student\\downloads\\muggedpwa-main\\muggedpwa-main\\muggedshop\\views\\user\\registeruser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|solutionrelative:muggedshop\\views\\user\\registeruser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|c:\\users\\lab_services_student\\downloads\\muggedpwa-main\\muggedpwa-main\\muggedshop\\views\\user\\customorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|solutionrelative:muggedshop\\views\\user\\customorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|c:\\users\\lab_services_student\\downloads\\muggedpwa-main\\muggedpwa-main\\muggedshop\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|solutionrelative:muggedshop\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|c:\\users\\lab_services_student\\downloads\\muggedpwa-main\\muggedpwa-main\\muggedshop\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|solutionrelative:muggedshop\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|c:\\users\\lab_services_student\\downloads\\muggedpwa-main\\muggedpwa-main\\muggedshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|solutionrelative:muggedshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|c:\\users\\lab_services_student\\downloads\\muggedpwa-main\\muggedpwa-main\\muggedshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|solutionrelative:muggedshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|c:\\users\\lab_services_student\\downloads\\muggedpwa-main\\muggedpwa-main\\muggedshop\\sessionextenstions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E01BB4-BEB3-48FD-BAC6-A919AF4D7570}|MuggedShop\\MuggedShop.csproj|solutionrelative:muggedshop\\sessionextenstions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5da8d69b-058a-4294-a87a-f4f7ae2983b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{47e8ae53-6b87-4489-b700-1453319ed417}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CheckoutOrder.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\Views\\Home\\CheckoutOrder.cshtml",
+              "RelativeDocumentMoniker": "MuggedShop\\Views\\Home\\CheckoutOrder.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\Views\\Home\\CheckoutOrder.cshtml",
+              "RelativeToolTip": "MuggedShop\\Views\\Home\\CheckoutOrder.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T00:50:59.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContactUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\Views\\Home\\ContactUs.cshtml",
+              "RelativeDocumentMoniker": "MuggedShop\\Views\\Home\\ContactUs.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\Views\\Home\\ContactUs.cshtml",
+              "RelativeToolTip": "MuggedShop\\Views\\Home\\ContactUs.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T00:50:59.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomizeMug.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\Views\\Home\\CustomizeMug.cshtml",
+              "RelativeDocumentMoniker": "MuggedShop\\Views\\Home\\CustomizeMug.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\Views\\Home\\CustomizeMug.cshtml",
+              "RelativeToolTip": "MuggedShop\\Views\\Home\\CustomizeMug.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T00:50:58.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "MuggedShop\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "MuggedShop\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-24T00:50:44.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "c80a5baa-754e-4544-a8e4-35de9a778d3c_bestrong.png - PNG [215x235, 8 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\wwwroot\\Images\\custom_mugs\\c80a5baa-754e-4544-a8e4-35de9a778d3c_bestrong.png",
+              "RelativeDocumentMoniker": "MuggedShop\\wwwroot\\Images\\custom_mugs\\c80a5baa-754e-4544-a8e4-35de9a778d3c_bestrong.png",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\wwwroot\\Images\\custom_mugs\\c80a5baa-754e-4544-a8e4-35de9a778d3c_bestrong.png - PNG [215x235, 8 bit, PNG]",
+              "RelativeToolTip": "MuggedShop\\wwwroot\\Images\\custom_mugs\\c80a5baa-754e-4544-a8e4-35de9a778d3c_bestrong.png - PNG [215x235, 8 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-24T00:50:41.537Z",
+              "EditorCaption": " - PNG [215x235, 8 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "rselyzjd.s0d.jpeg",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\wwwroot\\Images\\rselyzjd.s0d.jpeg",
+              "RelativeDocumentMoniker": "MuggedShop\\wwwroot\\Images\\rselyzjd.s0d.jpeg",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\wwwroot\\Images\\rselyzjd.s0d.jpeg",
+              "RelativeToolTip": "MuggedShop\\wwwroot\\Images\\rselyzjd.s0d.jpeg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-24T00:50:33.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AboutUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\Views\\Home\\AboutUs.cshtml",
+              "RelativeDocumentMoniker": "MuggedShop\\Views\\Home\\AboutUs.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\Views\\Home\\AboutUs.cshtml",
+              "RelativeToolTip": "MuggedShop\\Views\\Home\\AboutUs.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T00:40:05.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MuggedShop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MuggedShop\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAAAJcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T00:42:16.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MuggedShop\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MuggedShop\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAAAMMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T00:40:09.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shop.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\Views\\Home\\Shop.cshtml",
+              "RelativeDocumentMoniker": "MuggedShop\\Views\\Home\\Shop.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\Views\\Home\\Shop.cshtml",
+              "RelativeToolTip": "MuggedShop\\Views\\Home\\Shop.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T00:41:30.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\Views\\Home\\Cart.cshtml",
+              "RelativeDocumentMoniker": "MuggedShop\\Views\\Home\\Cart.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\Views\\Home\\Cart.cshtml",
+              "RelativeToolTip": "MuggedShop\\Views\\Home\\Cart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T00:51:00.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "urdku5su.fbp.jpg - Bitmap [2048x2048, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\wwwroot\\Images\\urdku5su.fbp.jpg",
+              "RelativeDocumentMoniker": "MuggedShop\\wwwroot\\Images\\urdku5su.fbp.jpg",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\wwwroot\\Images\\urdku5su.fbp.jpg - Bitmap [2048x2048, 24 bit, JPG]",
+              "RelativeToolTip": "MuggedShop\\wwwroot\\Images\\urdku5su.fbp.jpg - Bitmap [2048x2048, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-24T00:50:30.85Z",
+              "EditorCaption": " - Bitmap [2048x2048, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "visa_icon.png - PNG [281x180, 8 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\wwwroot\\Images\\visa_icon.png",
+              "RelativeDocumentMoniker": "MuggedShop\\wwwroot\\Images\\visa_icon.png",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\wwwroot\\Images\\visa_icon.png - PNG [281x180, 8 bit, PNG]",
+              "RelativeToolTip": "MuggedShop\\wwwroot\\Images\\visa_icon.png - PNG [281x180, 8 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-24T00:50:29.944Z",
+              "EditorCaption": " - PNG [281x180, 8 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "53b5dtje.5f2.jpg - Bitmap [2048x2048, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\wwwroot\\Images\\53b5dtje.5f2.jpg",
+              "RelativeDocumentMoniker": "MuggedShop\\wwwroot\\Images\\53b5dtje.5f2.jpg",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\wwwroot\\Images\\53b5dtje.5f2.jpg - Bitmap [2048x2048, 24 bit, JPG]",
+              "RelativeToolTip": "MuggedShop\\wwwroot\\Images\\53b5dtje.5f2.jpg - Bitmap [2048x2048, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-24T00:50:02.293Z",
+              "EditorCaption": " - Bitmap [2048x2048, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "4m5kfzfx.sne.jpg - Bitmap [2048x2048, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\wwwroot\\Images\\4m5kfzfx.sne.jpg",
+              "RelativeDocumentMoniker": "MuggedShop\\wwwroot\\Images\\4m5kfzfx.sne.jpg",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\wwwroot\\Images\\4m5kfzfx.sne.jpg - Bitmap [2048x2048, 24 bit, JPG]",
+              "RelativeToolTip": "MuggedShop\\wwwroot\\Images\\4m5kfzfx.sne.jpg - Bitmap [2048x2048, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-24T00:50:26.413Z",
+              "EditorCaption": " - Bitmap [2048x2048, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "email_icon.png - PNG [900x900, 4 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\wwwroot\\Images\\email_icon.png",
+              "RelativeDocumentMoniker": "MuggedShop\\wwwroot\\Images\\email_icon.png",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\wwwroot\\Images\\email_icon.png - PNG [900x900, 4 bit, PNG]",
+              "RelativeToolTip": "MuggedShop\\wwwroot\\Images\\email_icon.png - PNG [900x900, 4 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-24T00:50:00.493Z",
+              "EditorCaption": " - PNG [900x900, 4 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "guqor5re.hfg.jpg - Bitmap [2048x1310, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\wwwroot\\Images\\guqor5re.hfg.jpg",
+              "RelativeDocumentMoniker": "MuggedShop\\wwwroot\\Images\\guqor5re.hfg.jpg",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\wwwroot\\Images\\guqor5re.hfg.jpg - Bitmap [2048x1310, 24 bit, JPG]",
+              "RelativeToolTip": "MuggedShop\\wwwroot\\Images\\guqor5re.hfg.jpg - Bitmap [2048x1310, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-24T00:49:59.571Z",
+              "EditorCaption": " - Bitmap [2048x1310, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "location_icon.png - PNG [214x236, 8 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\wwwroot\\Images\\location_icon.png",
+              "RelativeDocumentMoniker": "MuggedShop\\wwwroot\\Images\\location_icon.png",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\wwwroot\\Images\\location_icon.png - PNG [214x236, 8 bit, PNG]",
+              "RelativeToolTip": "MuggedShop\\wwwroot\\Images\\location_icon.png - PNG [214x236, 8 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-24T00:49:58.602Z",
+              "EditorCaption": " - PNG [214x236, 8 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Custom_Mug.jpg - Bitmap [3676x2495, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\wwwroot\\Images\\Custom_Mug.jpg",
+              "RelativeDocumentMoniker": "MuggedShop\\wwwroot\\Images\\Custom_Mug.jpg",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\wwwroot\\Images\\Custom_Mug.jpg - Bitmap [3676x2495, 24 bit, JPG]",
+              "RelativeToolTip": "MuggedShop\\wwwroot\\Images\\Custom_Mug.jpg - Bitmap [3676x2495, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-24T00:49:44.119Z",
+              "EditorCaption": " - Bitmap [3676x2495, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "mastercard_icon.png - PNG [225x225, 8 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\wwwroot\\Images\\mastercard_icon.png",
+              "RelativeDocumentMoniker": "MuggedShop\\wwwroot\\Images\\mastercard_icon.png",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\wwwroot\\Images\\mastercard_icon.png - PNG [225x225, 8 bit, PNG]",
+              "RelativeToolTip": "MuggedShop\\wwwroot\\Images\\mastercard_icon.png - PNG [225x225, 8 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-24T00:49:57.758Z",
+              "EditorCaption": " - PNG [225x225, 8 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "oc2sarbf.tzl.jpg - Bitmap [2048x1332, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\wwwroot\\Images\\oc2sarbf.tzl.jpg",
+              "RelativeDocumentMoniker": "MuggedShop\\wwwroot\\Images\\oc2sarbf.tzl.jpg",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\wwwroot\\Images\\oc2sarbf.tzl.jpg - Bitmap [2048x1332, 24 bit, JPG]",
+              "RelativeToolTip": "MuggedShop\\wwwroot\\Images\\oc2sarbf.tzl.jpg - Bitmap [2048x1332, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-24T00:49:56.633Z",
+              "EditorCaption": " - Bitmap [2048x1332, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_LayoutUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\Views\\Shared\\_LayoutUser.cshtml",
+              "RelativeDocumentMoniker": "MuggedShop\\Views\\Shared\\_LayoutUser.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\Views\\Shared\\_LayoutUser.cshtml",
+              "RelativeToolTip": "MuggedShop\\Views\\Shared\\_LayoutUser.cshtml",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T00:42:35.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "MuggedShop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "MuggedShop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T00:42:34.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "MuggedShop\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "MuggedShop\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T00:42:30.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrderItemViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\ModelViews\\OrderItemViewModel.cs",
+              "RelativeDocumentMoniker": "MuggedShop\\ModelViews\\OrderItemViewModel.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\ModelViews\\OrderItemViewModel.cs",
+              "RelativeToolTip": "MuggedShop\\ModelViews\\OrderItemViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T00:41:56.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\ModelViews\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "MuggedShop\\ModelViews\\ProductViewModel.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\ModelViews\\ProductViewModel.cs",
+              "RelativeToolTip": "MuggedShop\\ModelViews\\ProductViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T00:41:54.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EditCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\Views\\Category\\EditCategory.cshtml",
+              "RelativeDocumentMoniker": "MuggedShop\\Views\\Category\\EditCategory.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\Views\\Category\\EditCategory.cshtml",
+              "RelativeToolTip": "MuggedShop\\Views\\Category\\EditCategory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T00:41:48.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ViewCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\Views\\Category\\ViewCategory.cshtml",
+              "RelativeDocumentMoniker": "MuggedShop\\Views\\Category\\ViewCategory.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\Views\\Category\\ViewCategory.cshtml",
+              "RelativeToolTip": "MuggedShop\\Views\\Category\\ViewCategory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T00:41:46.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "MuggedShop\\Views\\Login\\Login.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "MuggedShop\\Views\\Login\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T00:39:45.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UserHome.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\Views\\User\\UserHome.cshtml",
+              "RelativeDocumentMoniker": "MuggedShop\\Views\\User\\UserHome.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\Views\\User\\UserHome.cshtml",
+              "RelativeToolTip": "MuggedShop\\Views\\User\\UserHome.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T00:39:40.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RegisterUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\Views\\User\\RegisterUser.cshtml",
+              "RelativeDocumentMoniker": "MuggedShop\\Views\\User\\RegisterUser.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\Views\\User\\RegisterUser.cshtml",
+              "RelativeToolTip": "MuggedShop\\Views\\User\\RegisterUser.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T00:39:37.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CustomOrders.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\Views\\User\\CustomOrders.cshtml",
+              "RelativeDocumentMoniker": "MuggedShop\\Views\\User\\CustomOrders.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\Views\\User\\CustomOrders.cshtml",
+              "RelativeToolTip": "MuggedShop\\Views\\User\\CustomOrders.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T00:39:35.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MuggedShop\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MuggedShop\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T00:39:29.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MuggedShop\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MuggedShop\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T00:39:27.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\appsettings.json",
+              "RelativeDocumentMoniker": "MuggedShop\\appsettings.json",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\appsettings.json",
+              "RelativeToolTip": "MuggedShop\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T00:39:23.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\Program.cs",
+              "RelativeDocumentMoniker": "MuggedShop\\Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\Program.cs",
+              "RelativeToolTip": "MuggedShop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T00:39:13.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SessionExtenstions.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\SessionExtenstions.cs",
+              "RelativeDocumentMoniker": "MuggedShop\\SessionExtenstions.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\MuggedPWA-main\\MuggedPWA-main\\MuggedShop\\SessionExtenstions.cs",
+              "RelativeToolTip": "MuggedShop\\SessionExtenstions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T00:39:06.948Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
